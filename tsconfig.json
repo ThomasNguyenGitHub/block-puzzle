@@ -1,0 +1,14 @@
+{
+    "include": [
+        "./src/*"
+    ],
+    "compilerOptions": {
+        "lib": [
+            "dom",
+            "esnext"
+        ],
+        "jsx": "react",
+        "target": "es2016",
+        "moduleResolution": "node"
+    }
+}
